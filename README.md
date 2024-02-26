@@ -2,6 +2,8 @@
 
 
 **Stakeholder Register**
+
+
 Project Manager - Rikriti Koyirala:
 This position commonly involves overseeing project management, coordination, and ensuring the achievement of project objectives. Although the Project Manager plays a crucial role in the project, they are generally not classified as traditional stakeholders. Their primary focus lies in actively managing the day-to-day aspects of the project.
 
